@@ -25,7 +25,7 @@ static void ST7789_Reset() {
 static void ST7789_WriteCommand(uint8_t cmd) {
 	//ST7789_Select();
     HAL_GPIO_WritePin(ST7789_DC_PORT, ST7789_DC_PIN, GPIO_PIN_RESET);
-    HAL_SPI_Transmit(&hspi1, &cmd, sizeof(cmd), HAL_MAX_DELAY);
+    HAL_SPI_Transmit(&ST7789_SPI_PORT, &cmd, sizeof(cmd), HAL_MAX_DELAY);
 	//ST7789_UnSelect();
 }
 
@@ -37,7 +37,7 @@ static void ST7789_WriteData(uint8_t* buff, size_t buff_size) {
     // split data in small chunks because HAL can't send more then 64K at once
     while(buff_size > 0) {
         uint16_t chunk_size = buff_size > 32768 ? 32768 : buff_size;
-        HAL_SPI_Transmit(&hspi1, buff, chunk_size, HAL_MAX_DELAY);
+        HAL_SPI_Transmit(&ST7789_SPI_PORT, buff, chunk_size, HAL_MAX_DELAY);
         buff += chunk_size;
         buff_size -= chunk_size;
     }
@@ -113,9 +113,9 @@ void ST7789_Init(void)
   ST7789_Select();
   //ST7789_Reset();
 	ST7789_RST_Clr();
-	HAL_Delay(100);
+	HAL_Delay(10);
 	ST7789_RST_Set();
-	HAL_Delay(100); 
+	HAL_Delay(10); 
   ST7789_WriteCommand(0x36);
 
     if (USING_HORIZONAL == 0) {
