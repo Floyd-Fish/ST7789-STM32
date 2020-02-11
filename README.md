@@ -20,7 +20,7 @@ for a simple test, you could refer ST7789_Test() function in while(1).
 ## Developing...
 So this repo is currently **UNSTABLE**, please wait for the stable version.  
 
-I have tested this code on 135*240 screen made by ZhongJingYuan... but not on 240*240 yet  
+I have tested this code on 135x240 screen made by ZhongJingYuan... but not on 240x240 yet  
 **(Because of the 2019-ncov I have to stay at home with nothing to test :(  )**  
 
 Test conditions:
@@ -34,6 +34,6 @@ Test conditions:
 - [ananevilya's Arduino-ST7789-Lib](https://github.com/ananevilya/Arduino-ST7789-Library)  
 - [afiskon's stm32-st7735 lib](https://github.com/afiskon/stm32-st7735)
 
-#### Contributer
+#### Contributor
 - [JasonLrh](https://github.com/JasonLrh)  
 - [ZiangCheng](https://github.com/ZiangCheng)  
