@@ -26,7 +26,14 @@ I have tested this code on 135*240 screen made by ZhongJingYuan... but not on 24
 Test conditions:
 - STM32F103  
 - Keil MDK5  
-## Special thanks to
 
+
+# Special thanks to
+
+#### Reference
 - [ananevilya's Arduino-ST7789-Lib](https://github.com/ananevilya/Arduino-ST7789-Library)  
 - [afiskon's stm32-st7735 lib](https://github.com/afiskon/stm32-st7735)
+
+#### Contributer
+- [JasonLrh](https://github.com/JasonLrh)  
+- [ZiangCheng](https://github.com/ZiangCheng)  
