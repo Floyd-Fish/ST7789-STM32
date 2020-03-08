@@ -43,7 +43,8 @@ static void ST7789_WriteSmallData(uint8_t data)
 {
 	ST7789_Select();
     uint8_t datas[] = {data};
-    ST7789_WriteData(datas, sizeof(datas));
+    //ST7789_WriteData(datas, sizeof(datas));
+	HAL_SPI_Transmit(&ST7789_SPI_PORT, datas, sizeof(datas), HAL_MAX_DELAY);
 	ST7789_UnSelect();
 }
 
