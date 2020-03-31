@@ -6,6 +6,9 @@ Using STM32's Hardware SPI to drive a ST7789 based IPS display.
 - 240*240 resolution  
 
 If you like, you could customize it's resolution to drive different displays you prefer:D  
+> For example, a 240x320 display is perfectly suited for st7789.  
+> Just set all X_SHIFT and Y_SHIFT to 0, and set resolution to 240|320.  
+
 For more details, please refer to ST7789's datasheet.  
 ## How to use ?
 
@@ -15,16 +18,17 @@ In keil MDK5 (I use this), add include path ./project-path/st7789
 And open them in project file tree.  
 
 Include st7789.h in main.c
-for a simple test, you could refer ST7789_Test() function in while(1).
+for a simple test, you could refer ST7789_Test() function in while(1).  
+**Don't forget to refer ST7789_Init(); before you use any functions...**
 
-## Developing...
-So this repo is currently **UNSTABLE**, please wait for the stable version.  
+## ~~Developing...~~
+~~So this repo is currently **UNSTABLE**, please wait for the stable version.~~  
 
-I have tested this code on 135x240 screen made by ZhongJingYuan... but not on 240x240 yet  
-**(Because of the 2019-ncov I have to stay at home with nothing to test :(  )**  
+I have tested this code on 240x240 IPS screen and it passes all the examinations. You can look into **demo** directory for details.  
+
 
 Test conditions:
-- STM32F103  
+- STM32F103C8T6  
 - Keil MDK5  
 
 
