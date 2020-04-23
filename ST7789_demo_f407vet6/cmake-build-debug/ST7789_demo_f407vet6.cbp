@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ST7789_demo_f407vet6"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ST7789_demo_f407vet6.elf">
+				<Option output="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/ST7789_demo_f407vet6.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F407xx"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Inc"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/ST7789"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 ST7789_demo_f407vet6.elf"/>
+					<CompileFile command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ST7789_demo_f407vet6.elf/fast">
+				<Option output="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/ST7789_demo_f407vet6.elf" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DUSE_HAL_DRIVER"/>
+					<Add option="-DSTM32F407xx"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Inc"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/ST7789"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Device/ST/STM32F4xx/Include"/>
+					<Add directory="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed"/>
+					<Add directory="c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 ST7789_demo_f407vet6.elf/fast"/>
+					<CompileFile command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="G:/Clion/ST7789_demo_f407vet6/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f &quot;G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f407xx.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Device/ST/STM32F4xx/Include/stm32f4xx.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Device/ST/STM32F4xx/Include/system_stm32f4xx.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/cmsis_armcc.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/cmsis_armclang.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/cmsis_compiler.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/cmsis_gcc.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/cmsis_iccarm.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/cmsis_version.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_armv8mbl.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_armv8mml.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm0.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm0plus.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm1.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm23.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm3.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm33.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm4.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_cm7.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_sc000.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/core_sc300.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/mpu_armv7.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/mpu_armv8.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/CMSIS/Include/tz_context.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_cortex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_def.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_dma_ex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_exti.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_flash_ramfunc.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_gpio_ex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_pwr_ex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_rcc_ex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_spi.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Inc/stm32f4xx_hal_tim_ex.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/ST7789/fonts.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/ST7789/fonts.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/ST7789/st7789.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/ST7789/st7789.h">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/gpio.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/main.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/spi.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/stm32f4xx_hal_msp.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/stm32f4xx_it.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/syscalls.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/Src/system_stm32f4xx.c">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/startup/startup_stm32f407xx.s">
+			<Option target="ST7789_demo_f407vet6.elf"/>
+		</Unit>
+		<Unit filename="G:/Clion/ST7789_demo_f407vet6/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

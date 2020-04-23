@@ -1,0 +1,3 @@
+G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/ST7789_demo_f407vet6.elf.dir
+G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

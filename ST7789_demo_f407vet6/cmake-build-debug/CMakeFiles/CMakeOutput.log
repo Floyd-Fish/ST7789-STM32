@@ -1,0 +1,534 @@
+The target system is: Generic - 1 - 
+The host system is: Windows - 10.0.17763 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/bin/arm-none-eabi-gcc.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.o"
+
+The C compiler identification is GNU, found in "G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.o"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/bin/arm-none-eabi-g++.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CMakeCXXCompilerId.o"
+
+The CXX compiler identification is GNU, found in "G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.o"
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-none-eabi-gcc.exe (xPack GNU Arm Embedded GCC, 64-bit) 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599]
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGW-w64/mingw64/bin/mingw32-make.exe cmTC_27aa6/fast && D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_27aa6.dir\build.make CMakeFiles/cmTC_27aa6.dir/build
+mingw32-make.exe[1]: Entering directory 'G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj
+C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe   -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=gnu99    -v -o CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj   -c "D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"
+Using built-in specs.
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs
+rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs
+rename spec link to nano_link
+rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+rename spec cpp_unique_options to nano_cpp_unique_options
+COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe
+Target: arm-none-eabi
+Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib
+Thread model: single
+gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) 
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-v' '-o' 'CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m'
+ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m/nofp -iprefix c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/ -isysroot c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -D__USES_INITFINI__ D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -march=armv7e-m -auxbase-strip CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj -g -std=gnu99 -version -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o C:\Users\summer\AppData\Local\Temp\ccrjKh6S.s
+GNU C99 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)
+	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include"
+ignoring nonexistent directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/lib/gcc/arm-none-eabi/9.2.1/../../../../include"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include-fixed"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"
+ignoring duplicate directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include/newlib-nano
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include
+End of search list.
+GNU C99 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)
+	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 63d2d2ea32c20cd5d341797481bb44a5
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-v' '-o' 'CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m'
+ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mthumb-interwork -mfloat-abi=soft -meabi=5 -o CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj C:\Users\summer\AppData\Local\Temp\ccrjKh6S.s
+GNU assembler version 2.33.1 (arm-none-eabi) using BFD version (xPack GNU Arm Embedded GCC, 64-bit) 2.33.1.20191025
+COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/
+LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-v' '-o' 'CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m'
+Linking C executable cmTC_27aa6
+"D:\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_27aa6.dir\link.txt --verbose=1
+C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=gnu99   -Wl,-gc-sections,--print-memory-usage -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld -v CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj  -o cmTC_27aa6 
+Using built-in specs.
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs
+rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs
+rename spec link to nano_link
+rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+rename spec cpp_unique_options to nano_cpp_unique_options
+COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe
+COLLECT_LTO_WRAPPER=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe
+Target: arm-none-eabi
+Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib
+Thread model: single
+gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) 
+COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/
+LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-T' 'G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld' '-v' '-o' 'cmTC_27aa6' '-mfloat-abi=soft' '-march=armv7e-m'
+ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/collect2.exe -plugin c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/liblto_plugin-0.dll -plugin-opt=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\summer\AppData\Local\Temp\ccfzpcVZ.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lg_nano -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys --sysroot=c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -X -o cmTC_27aa6 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1 -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib -gc-sections --print-memory-usage CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lg_nano -lc_nano --end-group --start-group -lgcc -lc_nano -lnosys --end-group --start-group -lgcc -lc_nano -lnosys --end-group c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld
+Memory region         Used Size  Region Size  %age Used
+             RAM:        1568 B       128 KB      1.20%
+          CCMRAM:          0 GB        64 KB      0.00%
+           FLASH:          96 B       512 KB      0.02c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol Reset_Handler; defaulting to 0000000008000000%
+
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-T' 'G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld' '-v' '-o' 'cmTC_27aa6' '-mfloat-abi=soft' '-march=armv7e-m'
+mingw32-make.exe[1]: Leaving directory 'G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/include/newlib-nano]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include-fixed]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include]
+  end of search list found
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/include/newlib-nano] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/newlib-nano]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include-fixed] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include-fixed]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include]
+  implicit include dirs: [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/newlib-nano;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include-fixed;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(arm-none-eabi-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):D:/MinGW-w64/mingw64/bin/mingw32-make.exe cmTC_27aa6/fast && D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_27aa6.dir\build.make CMakeFiles/cmTC_27aa6.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj]
+  ignore line: [C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe   -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=gnu99    -v -o CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj   -c "D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c"]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs]
+  ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs]
+  ignore line: [rename spec link to nano_link]
+  ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+  ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+  ignore line: [COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe]
+  ignore line: [Target: arm-none-eabi]
+  ignore line: [Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib]
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-v' '-o' 'CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m']
+  ignore line: [ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/cc1.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m/nofp -iprefix c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/ -isysroot c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -D__USES_INITFINI__ D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -march=armv7e-m -auxbase-strip CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj -g -std=gnu99 -version -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o C:\Users\summer\AppData\Local\Temp\ccrjKh6S.s]
+  ignore line: [GNU C99 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)]
+  ignore line: [	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include"]
+  ignore line: [ignoring nonexistent directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/lib/gcc/arm-none-eabi/9.2.1/../../../../include"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include-fixed"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"]
+  ignore line: [ignoring duplicate directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include/newlib-nano]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C99 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)]
+  ignore line: [	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 63d2d2ea32c20cd5d341797481bb44a5]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-v' '-o' 'CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m']
+  ignore line: [ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mthumb-interwork -mfloat-abi=soft -meabi=5 -o CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj C:\Users\summer\AppData\Local\Temp\ccrjKh6S.s]
+  ignore line: [GNU assembler version 2.33.1 (arm-none-eabi) using BFD version (xPack GNU Arm Embedded GCC, 64-bit) 2.33.1.20191025]
+  ignore line: [COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-v' '-o' 'CMakeFiles\cmTC_27aa6.dir\CMakeCCompilerABI.c.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m']
+  ignore line: [Linking C executable cmTC_27aa6]
+  ignore line: ["D:\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_27aa6.dir\link.txt --verbose=1]
+  ignore line: [C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=gnu99   -Wl,-gc-sections,--print-memory-usage -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld -v CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj  -o cmTC_27aa6 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs]
+  ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs]
+  ignore line: [rename spec link to nano_link]
+  ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+  ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+  ignore line: [COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-gcc.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe]
+  ignore line: [Target: arm-none-eabi]
+  ignore line: [Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib]
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) ]
+  ignore line: [COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=gnu99' '-T' 'G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld' '-v' '-o' 'cmTC_27aa6' '-mfloat-abi=soft' '-march=armv7e-m']
+  link line: [ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/collect2.exe -plugin c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/liblto_plugin-0.dll -plugin-opt=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\summer\AppData\Local\Temp\ccfzpcVZ.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lg_nano -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys --sysroot=c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -X -o cmTC_27aa6 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1 -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib -gc-sections --print-memory-usage CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj --start-group -lgcc -lg_nano -lc_nano --end-group --start-group -lgcc -lc_nano -lnosys --end-group --start-group -lgcc -lc_nano -lnosys --end-group c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld]
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\summer\AppData\Local\Temp\ccfzpcVZ.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lg_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+    arg [--sysroot=c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi] ==> ignore
+    arg [-X] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_27aa6] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o] ==> ignore
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib]
+    arg [-gc-sections] ==> ignore
+    arg [--print-memory-usage] ==> ignore
+    arg [CMakeFiles/cmTC_27aa6.dir/CMakeCCompilerABI.c.obj] ==> ignore
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lg_nano] ==> lib [g_nano]
+    arg [-lc_nano] ==> lib [c_nano]
+    arg [--end-group] ==> ignore
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc_nano] ==> lib [c_nano]
+    arg [-lnosys] ==> lib [nosys]
+    arg [--end-group] ==> ignore
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc_nano] ==> lib [c_nano]
+    arg [-lnosys] ==> lib [nosys]
+    arg [--end-group] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o] ==> ignore
+    arg [-T] ==> ignore
+    arg [G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld] ==> ignore
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib/thumb/v7e-m/nofp]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib/thumb/v7e-m/nofp]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib]
+  implicit libs: [gcc;g_nano;c_nano;gcc;c_nano;nosys;gcc;c_nano;nosys]
+  implicit dirs: [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib/thumb/v7e-m/nofp;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib]
+  implicit fwks: []
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/MinGW-w64/mingw64/bin/mingw32-make.exe cmTC_25767/fast && D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_25767.dir\build.make CMakeFiles/cmTC_25767.dir/build
+mingw32-make.exe[1]: Entering directory 'G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj
+C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe    -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=c++11    -v -o CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj -c "D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"
+Using built-in specs.
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs
+rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs
+rename spec link to nano_link
+rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+rename spec cpp_unique_options to nano_cpp_unique_options
+COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe
+Target: arm-none-eabi
+Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib
+Thread model: single
+gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) 
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-v' '-o' 'CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m'
+ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/cc1plus.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m/nofp -iprefix c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/ -isysroot c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -D__USES_INITFINI__ D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -march=armv7e-m -auxbase-strip CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj -g -std=c++11 -version -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o C:\Users\summer\AppData\Local\Temp\cchGq6Ug.s
+GNU C++11 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)
+	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include"
+ignoring nonexistent directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/lib/gcc/arm-none-eabi/9.2.1/../../../../include"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include-fixed"
+ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"
+ignoring duplicate directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include/newlib-nano
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed
+ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include
+End of search list.
+GNU C++11 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)
+	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: ba5366aed51beae931f0dc1b2674edc7
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-v' '-o' 'CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m'
+ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mthumb-interwork -mfloat-abi=soft -meabi=5 -o CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\summer\AppData\Local\Temp\cchGq6Ug.s
+GNU assembler version 2.33.1 (arm-none-eabi) using BFD version (xPack GNU Arm Embedded GCC, 64-bit) 2.33.1.20191025
+COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/
+LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-v' '-o' 'CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m'
+Linking CXX executable cmTC_25767
+"D:\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_25767.dir\link.txt --verbose=1
+C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe  -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=c++11   -Wl,-gc-sections,--print-memory-usage -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld -v CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj  -o cmTC_25767 
+Using built-in specs.
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs
+rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence
+Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs
+rename spec link to nano_link
+rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence
+rename spec cpp_unique_options to nano_cpp_unique_options
+COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe
+COLLECT_LTO_WRAPPER=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe
+Target: arm-none-eabi
+Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib
+Thread model: single
+gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) 
+COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/
+LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/;c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-T' 'G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld' '-v' '-o' 'cmTC_25767' '-mfloat-abi=soft' '-march=armv7e-m'
+ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/collect2.exe -plugin c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/liblto_plugin-0.dll -plugin-opt=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\summer\AppData\Local\Temp\cce4XVti.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lg_nano -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys --sysroot=c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -X -o cmTC_25767 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1 -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib -gc-sections --print-memory-usage CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++_nano -lm --start-group -lgcc -lg_nano -lc_nano --end-group --start-group -lgcc -lc_nano -lnosys --end-group --start-group -lgcc -lc_nano -lnosys --end-group c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld
+Memory region         Used Size  Region Size  %age Used
+             RAM:        1568 B       128 KB      1.20%
+          CCMRAM:          0 GB        64 KB      0.00%
+           FLASH:          96 B       512 KB      0.02c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/ld.exe: warning: cannot find entry symbol Reset_Handler; defaulting to 0000000008000000%
+
+COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-T' 'G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld' '-v' '-o' 'cmTC_25767' '-mfloat-abi=soft' '-march=armv7e-m'
+mingw32-make.exe[1]: Leaving directory 'G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/include/newlib-nano]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include-fixed]
+    add: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include]
+  end of search list found
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/include/newlib-nano] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/newlib-nano]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/c++/9.2.1]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/c++/9.2.1/backward]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/include-fixed] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include-fixed]
+  collapse include dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include]
+  implicit include dirs: [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/newlib-nano;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/c++/9.2.1;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include/c++/9.2.1/backward;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/include-fixed;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(arm-none-eabi-ld\.exe|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):D:/MinGW-w64/mingw64/bin/mingw32-make.exe cmTC_25767/fast && D:/MinGW-w64/mingw64/bin/mingw32-make.exe -f CMakeFiles\cmTC_25767.dir\build.make CMakeFiles/cmTC_25767.dir/build]
+  ignore line: [mingw32-make.exe[1]: Entering directory 'G:/Clion/ST7789_demo_f407vet6/cmake-build-debug/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj]
+  ignore line: [C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe    -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=c++11    -v -o CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj -c "D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp"]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs]
+  ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs]
+  ignore line: [rename spec link to nano_link]
+  ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+  ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+  ignore line: [COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe]
+  ignore line: [Target: arm-none-eabi]
+  ignore line: [Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib]
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-v' '-o' 'CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m']
+  ignore line: [ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/cc1plus.exe -isystem =/include/newlib-nano -quiet -v -imultilib thumb/v7e-m/nofp -iprefix c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/ -isysroot c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -D__USES_INITFINI__ D:\CLion 2019.2\bin\cmake\win\share\cmake-3.15\Modules\CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=cortex-m4 -mthumb -mthumb-interwork -mfloat-abi=soft -march=armv7e-m -auxbase-strip CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj -g -std=c++11 -version -ffunction-sections -fdata-sections -fno-common -fmessage-length=0 -o C:\Users\summer\AppData\Local\Temp\cchGq6Ug.s]
+  ignore line: [GNU C++11 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)]
+  ignore line: [	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include"]
+  ignore line: [ignoring nonexistent directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/lib/gcc/arm-none-eabi/9.2.1/../../../../include"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/include-fixed"]
+  ignore line: [ignoring duplicate directory "c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/lib/gcc/../../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include"]
+  ignore line: [ignoring duplicate directory "c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi/include/newlib-nano]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/arm-none-eabi/thumb/v7e-m/nofp]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include/c++/9.2.1/backward]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/include-fixed]
+  ignore line: [ c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++11 (xPack GNU Arm Embedded GCC, 64-bit) version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (arm-none-eabi)]
+  ignore line: [	compiled by GNU C version 7.4.0, GMP version 6.1.0, MPFR version 3.1.4, MPC version 1.0.3, isl version isl-0.18-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: ba5366aed51beae931f0dc1b2674edc7]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-v' '-o' 'CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m']
+  ignore line: [ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/as.exe -v -march=armv7e-m -mthumb-interwork -mfloat-abi=soft -meabi=5 -o CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj C:\Users\summer\AppData\Local\Temp\cchGq6Ug.s]
+  ignore line: [GNU assembler version 2.33.1 (arm-none-eabi) using BFD version (xPack GNU Arm Embedded GCC, 64-bit) 2.33.1.20191025]
+  ignore line: [COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-v' '-o' 'CMakeFiles\cmTC_25767.dir\CMakeCXXCompilerABI.cpp.obj' '-c' '-mfloat-abi=soft' '-march=armv7e-m']
+  ignore line: [Linking CXX executable cmTC_25767]
+  ignore line: ["D:\CLion 2019.2\bin\cmake\win\bin\cmake.exe" -E cmake_link_script CMakeFiles\cmTC_25767.dir\link.txt --verbose=1]
+  ignore line: [C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe  -mcpu=cortex-m4  -mthumb -mthumb-interwork -ffunction-sections -fdata-sections     -g -fno-common -fmessage-length=0 -specs=nosys.specs -specs=nano.specs -std=c++11   -Wl,-gc-sections,--print-memory-usage -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld -v CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj  -o cmTC_25767 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nosys.specs]
+  ignore line: [rename spec link_gcc_c_sequence to nosys_link_gcc_c_sequence]
+  ignore line: [Reading specs from c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/nano.specs]
+  ignore line: [rename spec link to nano_link]
+  ignore line: [rename spec link_gcc_c_sequence to nano_link_gcc_c_sequence]
+  ignore line: [rename spec cpp_unique_options to nano_cpp_unique_options]
+  ignore line: [COLLECT_GCC=C:\Users\summer\AppData\Roaming\xPacks\ARM_Embedded_GCC\bin\arm-none-eabi-g++.exe]
+  ignore line: [COLLECT_LTO_WRAPPER=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe]
+  ignore line: [Target: arm-none-eabi]
+  ignore line: [Configured with: /Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/sources/gcc/configure --prefix=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc --infodir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/info --mandir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/man --htmldir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/html --pdfdir=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/share/doc/pdf --build=x86_64-unknown-linux-gnu --host=x86_64-w64-mingw32 --target=arm-none-eabi --with-pkgversion='xPack GNU Arm Embedded GCC\x2C 64-bit' --enable-languages=c,c++ --enable-mingw-wildcard --enable-plugins --enable-lto --disable-decimal-float --disable-libffi --disable-libgomp --disable-libmudflap --disable-libquadmath --disable-libssp --disable-libstdcxx-pch --disable-nls --disable-threads --disable-tls --with-gnu-as --with-gnu-ld --with-newlib --with-headers=yes --with-python-dir=share/gcc-arm-none-eabi --with-sysroot=/Host/home/ilg/Work/arm-none-eabi-gcc-9.2.1-1.1/win32-x64/install/arm-none-eabi-gcc/arm-none-eabi --with-native-system-header-dir=/include --with-multilib-list=rmprofile --disable-rpath --disable-build-format-warnings --with-system-zlib]
+  ignore line: [Thread model: single]
+  ignore line: [gcc version 9.2.1 20191025 (release) [ARM/arm-9-branch revision 277599] (xPack GNU Arm Embedded GCC, 64-bit) ]
+  ignore line: [COMPILER_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/bin/]
+  ignore line: [LIBRARY_PATH=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/]
+  ignore line: [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-mcpu=cortex-m4' '-mthumb' '-mthumb-interwork' '-ffunction-sections' '-fdata-sections' '-g' '-fno-common' '-fmessage-length=0' '-specs=nosys.specs' '-specs=nano.specs' '-std=c++11' '-T' 'G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld' '-v' '-o' 'cmTC_25767' '-mfloat-abi=soft' '-march=armv7e-m']
+  link line: [ c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/collect2.exe -plugin c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/liblto_plugin-0.dll -plugin-opt=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe -plugin-opt=-fresolution=C:\Users\summer\AppData\Local\Temp\cce4XVti.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lg_nano -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc_nano -plugin-opt=-pass-through=-lnosys --sysroot=c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi -X -o cmTC_25767 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1 -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib -Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib -gc-sections --print-memory-usage CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj -lstdc++_nano -lm --start-group -lgcc -lg_nano -lc_nano --end-group --start-group -lgcc -lc_nano -lnosys --end-group --start-group -lgcc -lc_nano -lnosys --end-group c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o -T G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld]
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/collect2.exe] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/liblto_plugin-0.dll] ==> ignore
+    arg [-plugin-opt=c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../libexec/gcc/arm-none-eabi/9.2.1/lto-wrapper.exe] ==> ignore
+    arg [-plugin-opt=-fresolution=C:\Users\summer\AppData\Local\Temp\cce4XVti.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lg_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc_nano] ==> ignore
+    arg [-plugin-opt=-pass-through=-lnosys] ==> ignore
+    arg [--sysroot=c:\users\summer\appdata\roaming\xpacks\arm_embedded_gcc\bin\../arm-none-eabi] ==> ignore
+    arg [-X] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_25767] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o] ==> ignore
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib]
+    arg [-Lc:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib] ==> dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib]
+    arg [-gc-sections] ==> ignore
+    arg [--print-memory-usage] ==> ignore
+    arg [CMakeFiles/cmTC_25767.dir/CMakeCXXCompilerABI.cpp.obj] ==> ignore
+    arg [-lstdc++_nano] ==> lib [stdc++_nano]
+    arg [-lm] ==> lib [m]
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lg_nano] ==> lib [g_nano]
+    arg [-lc_nano] ==> lib [c_nano]
+    arg [--end-group] ==> ignore
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc_nano] ==> lib [c_nano]
+    arg [-lnosys] ==> lib [nosys]
+    arg [--end-group] ==> ignore
+    arg [--start-group] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc_nano] ==> lib [c_nano]
+    arg [-lnosys] ==> lib [nosys]
+    arg [--end-group] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o] ==> ignore
+    arg [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o] ==> ignore
+    arg [-T] ==> ignore
+    arg [G:/Clion/ST7789_demo_f407vet6/STM32F407VETx_FLASH.ld] ==> ignore
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib/thumb/v7e-m/nofp]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib/thumb/v7e-m/nofp] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib/thumb/v7e-m/nofp]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib]
+  collapse library dir [c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../arm-none-eabi/lib] ==> [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib]
+  implicit libs: [stdc++_nano;m;gcc;g_nano;c_nano;gcc;c_nano;nosys;gcc;c_nano;nosys]
+  implicit dirs: [C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib/thumb/v7e-m/nofp;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc/arm-none-eabi/9.2.1;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/lib/gcc;C:/Users/summer/AppData/Roaming/xPacks/ARM_Embedded_GCC/arm-none-eabi/lib]
+  implicit fwks: []
+
+

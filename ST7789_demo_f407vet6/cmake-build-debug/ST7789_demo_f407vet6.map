@@ -1,0 +1,1438 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                              CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj (__aeabi_uldivmod)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                              c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__udivmoddi4)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                              c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o) (__aeabi_ldiv0)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+                              CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj (__errno)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+                              c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (exit)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+                              c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                              c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (__libc_init_array)
+c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                              c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .data.__dso_handle
+                0x0000000000000000        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x74 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1c c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DeInit
+                0x0000000000000000       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspInit
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x50 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_EnableCompensationCell
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_DisableCompensationCell
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x0000000000000000       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x0000000000000000       0x4c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x0000000000000000       0x6c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x0000000000000000       0x2c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_EnableIRQ
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000        0x8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Disable
+                0x0000000000000000       0x2c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_Enable
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_MPU_ConfigRegion
+                0x0000000000000000       0x88 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000        0xe CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x2c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0000000000000000      0x15c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0xbc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x76 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000       0xb0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0xe0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000       0x42 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x1be CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000      0x314 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0xa4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0xd0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x0000000000000000       0x1a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x0000000000000000       0x16 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x0000000000000000       0x5a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CalcBaseAndBitshift
+                0x0000000000000000       0x68 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text.DMA_CheckFifoParam
+                0x0000000000000000       0xf4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .rodata.flagBitshiftOffset.6384
+                0x0000000000000000        0x8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_info    0x0000000000000000      0x9e6 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_abbrev  0x0000000000000000      0x256 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_aranges
+                0x0000000000000000       0x90 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_ranges  0x0000000000000000       0x80 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_line    0x0000000000000000      0xad7 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_str     0x0000000000000000      0x860 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .debug_frame   0x0000000000000000      0x250 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart
+                0x0000000000000000       0x96 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_MultiBufferStart_IT
+                0x0000000000000000     0x1290 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.HAL_DMAEx_ChangeMemory
+                0x0000000000000000       0x32 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text.DMA_MultiBufferSetConfig
+                0x0000000000000000       0x4a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_info    0x0000000000000000      0x622 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x1d1 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_line    0x0000000000000000      0xf0c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_str     0x0000000000000000      0x661 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .debug_frame   0x0000000000000000       0xac CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000      0x14c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000      0x104 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0xc0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000       0x32 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000       0x26 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x30 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x2c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_info    0x0000000000000000      0x634 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_abbrev  0x0000000000000000      0x1df CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_line    0x0000000000000000      0x54e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000      0x4f9 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .debug_frame   0x0000000000000000      0x174 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .bss.pFlash    0x0000000000000000       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x0000000000000000       0xa8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0x9c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000      0x140 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x0000000000000000       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x80 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_DoubleWord
+                0x0000000000000000       0x64 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Word
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_Program_Byte
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x0000000000000000       0xac CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_info    0x0000000000000000      0x66e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_abbrev  0x0000000000000000      0x279 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_ranges  0x0000000000000000       0x90 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_line    0x0000000000000000      0x607 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000      0x61f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .debug_frame   0x0000000000000000      0x274 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x0000000000000000       0xe0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0xac CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xdc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x46 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_Erase_Sector
+                0x0000000000000000       0x90 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x0000000000000000       0x34 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_BOR_LevelConfig
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetBOR
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text.FLASH_FlushCaches
+                0x0000000000000000       0x88 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_info    0x0000000000000000      0x77f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x24b CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x98 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x88 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_line    0x0000000000000000      0x62c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000      0x685 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .debug_frame   0x0000000000000000      0x250 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_info    0x0000000000000000      0x16d CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_line    0x0000000000000000      0x1d8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .debug_str     0x0000000000000000      0x2e6 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000      0x1f4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_ReadPin
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_TogglePin
+                0x0000000000000000       0x34 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x4e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x0000000000000000       0x30 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text.HAL_GPIO_EXTI_Callback
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0xbc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x24 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x24 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x30 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x0000000000000000       0x24 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_info    0x0000000000000000      0x7cc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x1b5 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x90 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_line    0x0000000000000000      0x451 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000      0x63d CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .debug_frame   0x0000000000000000      0x254 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableBkUpReg
+                0x0000000000000000       0x4c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableBkUpReg
+                0x0000000000000000       0x4c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_EnableFlashPowerDown
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_DisableFlashPowerDown
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_GetVoltageRange
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text.HAL_PWREx_ControlVoltageScaling
+                0x0000000000000000       0x84 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_info    0x0000000000000000      0x4d5 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x18a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_line    0x0000000000000000      0x362 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_str     0x0000000000000000      0x4fe CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .debug_frame   0x0000000000000000       0xdc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000        0xe CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0xd0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000      0x128 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0x1c4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000       0xb8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_EnablePLLI2S
+                0x0000000000000000       0x88 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_DisablePLLI2S
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000      0x19c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000000000000000      0x5f8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x18c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000000000000000      0x587 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000      0x599 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .debug_frame   0x0000000000000000       0xf0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_DeInit
+                0x0000000000000000       0x50 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_MspInit
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_MspDeInit
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive
+                0x0000000000000000      0x212 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive
+                0x0000000000000000      0x344 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit_IT
+                0x0000000000000000      0x104 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive_IT
+                0x0000000000000000      0x12c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive_IT
+                0x0000000000000000      0x128 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Transmit_DMA
+                0x0000000000000000      0x15c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Receive_DMA
+                0x0000000000000000      0x180 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TransmitReceive_DMA
+                0x0000000000000000      0x204 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Abort
+                0x0000000000000000      0x1d8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_Abort_IT
+                0x0000000000000000      0x1f4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAPause
+                0x0000000000000000       0x42 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAResume
+                0x0000000000000000       0x42 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_DMAStop
+                0x0000000000000000       0x7e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_IRQHandler
+                0x0000000000000000      0x200 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TxCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_RxCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TxRxCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TxHalfCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_RxHalfCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_TxRxHalfCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_ErrorCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_AbortCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_GetState
+                0x0000000000000000       0x1a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.HAL_SPI_GetError
+                0x0000000000000000       0x16 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMATransmitCplt
+                0x0000000000000000       0xa8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMAReceiveCplt
+                0x0000000000000000       0x84 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMATransmitReceiveCplt
+                0x0000000000000000       0x90 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMAHalfTransmitCplt
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMAHalfReceiveCplt
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMAHalfTransmitReceiveCplt
+                0x0000000000000000       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMAError
+                0x0000000000000000       0x40 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMAAbortOnError
+                0x0000000000000000       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMATxAbortCallback
+                0x0000000000000000       0xd4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_DMARxAbortCallback
+                0x0000000000000000       0xc0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_2linesRxISR_8BIT
+                0x0000000000000000       0x64 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_2linesTxISR_8BIT
+                0x0000000000000000       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_2linesRxISR_16BIT
+                0x0000000000000000       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_2linesTxISR_16BIT
+                0x0000000000000000       0x5e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_RxISR_8BIT
+                0x0000000000000000       0x4a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_RxISR_16BIT
+                0x0000000000000000       0x46 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_TxISR_8BIT
+                0x0000000000000000       0x46 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_TxISR_16BIT
+                0x0000000000000000       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_EndRxTransaction
+                0x0000000000000000       0xca CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_CloseRxTx_ISR
+                0x0000000000000000       0xe8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_CloseRx_ISR
+                0x0000000000000000       0x7e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_CloseTx_ISR
+                0x0000000000000000       0xc4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_AbortRx_ISR
+                0x0000000000000000       0x84 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_AbortTx_ISR
+                0x0000000000000000       0x3a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_info    0x0000000000000000      0x16d CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_line    0x0000000000000000      0x1d8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .debug_str     0x0000000000000000      0x2dc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000000000      0x16d CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_line    0x0000000000000000      0x1d8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000000000      0x2df CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_Fill
+                0x0000000000000000       0x9c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_DrawPixel_4px
+                0x0000000000000000       0x70 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_InvertColors
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_TearEffect
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .text.HAL_SPI_MspDeInit
+                0x0000000000000000       0x3c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._getpid  0x0000000000000000        0xe CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._kill    0x0000000000000000       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._exit    0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._read    0x0000000000000000       0x3a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._write   0x0000000000000000       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .bss.heap_end.6018
+                0x0000000000000000        0x4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._sbrk    0x0000000000000000       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._close   0x0000000000000000       0x16 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._fstat   0x0000000000000000       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._isatty  0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._lseek   0x0000000000000000       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._open    0x0000000000000000       0x1a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._times   0x0000000000000000       0x16 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x16 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x22 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_info    0x0000000000000000     0x100f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_abbrev  0x0000000000000000      0x2a9 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000000       0xb0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_ranges  0x0000000000000000       0xa0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_line    0x0000000000000000      0x493 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_str     0x0000000000000000      0x884 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .comment       0x0000000000000000       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .debug_frame   0x0000000000000000      0x2d0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000      0x100 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.extab.text.__udivmoddi4
+                0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000020000 xrw
+CCMRAM           0x0000000010000000 0x0000000000010000 xrw
+FLASH            0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp/crt0.o
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/syscalls.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+LOAD CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+START GROUP
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+END GROUP
+START GROUP
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+START GROUP
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libc_nano.a
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libnosys.a
+END GROUP
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtend.o
+LOAD c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+                0x0000000020020000                _estack = 0x20020000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x188
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x188 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x0000000008000188                . = ALIGN (0x4)
+
+.text           0x0000000008000188     0x2c34
+                0x0000000008000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0000000008000188       0x30 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+                0x0000000008000188                __aeabi_uldivmod
+ .text          0x00000000080001b8        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+                0x00000000080001b8                __aeabi_idiv0
+                0x00000000080001b8                __aeabi_ldiv0
+ *(.text*)
+ .text.__do_global_dtors_aux
+                0x00000000080001bc       0x24 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.frame_dummy
+                0x00000000080001e0       0x1c c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .text.HAL_Init
+                0x00000000080001fc       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000000080001fc                HAL_Init
+ .text.HAL_InitTick
+                0x0000000008000240       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0000000008000240                HAL_InitTick
+ .text.HAL_IncTick
+                0x00000000080002a0       0x24 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000000080002a0                HAL_IncTick
+ .text.HAL_GetTick
+                0x00000000080002c4       0x14 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000000080002c4                HAL_GetTick
+ .text.HAL_Delay
+                0x00000000080002d8       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x00000000080002d8                HAL_Delay
+ .text.__NVIC_SetPriorityGrouping
+                0x0000000008000320       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x0000000008000368       0x1c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x0000000008000384       0x54 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x00000000080003d8       0x64 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x000000000800043c       0x44 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x0000000008000480       0x16 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0000000008000480                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x0000000008000496       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x0000000008000496                HAL_NVIC_SetPriority
+ .text.HAL_SYSTICK_Config
+                0x00000000080004ce       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                0x00000000080004ce                HAL_SYSTICK_Config
+ *fill*         0x00000000080004e6        0x2 
+ .text.HAL_GPIO_Init
+                0x00000000080004e8      0x334 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x00000000080004e8                HAL_GPIO_Init
+ .text.HAL_GPIO_WritePin
+                0x000000000800081c       0x30 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                0x000000000800081c                HAL_GPIO_WritePin
+ .text.HAL_RCC_OscConfig
+                0x000000000800084c      0x4e0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x000000000800084c                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x0000000008000d2c      0x1cc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x0000000008000d2c                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008000ef8      0x1c4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                0x0000000008000ef8                HAL_RCC_GetSysClockFreq
+ .text.HAL_SPI_Init
+                0x00000000080010bc       0xc8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+                0x00000000080010bc                HAL_SPI_Init
+ .text.HAL_SPI_Transmit
+                0x0000000008001184      0x268 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+                0x0000000008001184                HAL_SPI_Transmit
+ .text.SPI_WaitFlagStateUntilTimeout
+                0x00000000080013ec       0xd4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.SPI_EndRxTxTransaction
+                0x00000000080014c0       0x84 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .text.ST7789_WriteCommand
+                0x0000000008001544       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_WriteData
+                0x000000000800158c       0x6c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_WriteSmallData
+                0x00000000080015f8       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_SetRotation
+                0x0000000008001640       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001640                ST7789_SetRotation
+ .text.ST7789_SetAddressWindow
+                0x0000000008001698       0xb8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .text.ST7789_Init
+                0x0000000008001750      0x13c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001750                ST7789_Init
+ .text.ST7789_Fill_Color
+                0x000000000800188c       0x78 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x000000000800188c                ST7789_Fill_Color
+ .text.ST7789_DrawPixel
+                0x0000000008001904       0x68 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001904                ST7789_DrawPixel
+ .text.ST7789_DrawLine
+                0x000000000800196c      0x118 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x000000000800196c                ST7789_DrawLine
+ .text.ST7789_DrawRectangle
+                0x0000000008001a84       0x88 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001a84                ST7789_DrawRectangle
+ .text.ST7789_DrawCircle
+                0x0000000008001b0c      0x1cc CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001b0c                ST7789_DrawCircle
+ .text.ST7789_DrawImage
+                0x0000000008001cd8       0x9c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001cd8                ST7789_DrawImage
+ .text.ST7789_WriteChar
+                0x0000000008001d74      0x100 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001d74                ST7789_WriteChar
+ .text.ST7789_WriteString
+                0x0000000008001e74       0xa4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001e74                ST7789_WriteString
+ .text.ST7789_DrawFilledRectangle
+                0x0000000008001f18       0xb0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001f18                ST7789_DrawFilledRectangle
+ .text.ST7789_DrawTriangle
+                0x0000000008001fc8       0x74 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x0000000008001fc8                ST7789_DrawTriangle
+ .text.ST7789_DrawFilledTriangle
+                0x000000000800203c      0x19c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x000000000800203c                ST7789_DrawFilledTriangle
+ .text.ST7789_DrawFilledCircle
+                0x00000000080021d8      0x1cc CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x00000000080021d8                ST7789_DrawFilledCircle
+ .text.ST7789_Test
+                0x00000000080023a4      0x35c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                0x00000000080023a4                ST7789_Test
+ .text.MX_GPIO_Init
+                0x0000000008002700       0x84 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+                0x0000000008002700                MX_GPIO_Init
+ .text.main     0x0000000008002784       0x1e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+                0x0000000008002784                main
+ *fill*         0x00000000080027a2        0x2 
+ .text.SystemClock_Config
+                0x00000000080027a4       0xd4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+                0x00000000080027a4                SystemClock_Config
+ .text.Error_Handler
+                0x0000000008002878        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+                0x0000000008002878                Error_Handler
+ .text.MX_SPI1_Init
+                0x0000000008002884       0x6c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+                0x0000000008002884                MX_SPI1_Init
+ .text.HAL_SPI_MspInit
+                0x00000000080028f0       0x90 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+                0x00000000080028f0                HAL_SPI_MspInit
+ .text.HAL_MspInit
+                0x0000000008002980       0x4c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+                0x0000000008002980                HAL_MspInit
+ .text.NMI_Handler
+                0x00000000080029cc        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029cc                NMI_Handler
+ .text.HardFault_Handler
+                0x00000000080029d8        0x6 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029d8                HardFault_Handler
+ .text.MemManage_Handler
+                0x00000000080029de        0x6 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029de                MemManage_Handler
+ .text.BusFault_Handler
+                0x00000000080029e4        0x6 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029e4                BusFault_Handler
+ .text.UsageFault_Handler
+                0x00000000080029ea        0x6 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029ea                UsageFault_Handler
+ .text.SVC_Handler
+                0x00000000080029f0        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029f0                SVC_Handler
+ .text.DebugMon_Handler
+                0x00000000080029fc        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x00000000080029fc                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008002a08        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008002a08                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000008002a14        0xc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                0x0000000008002a14                SysTick_Handler
+ .text.SystemInit
+                0x0000000008002a20       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+                0x0000000008002a20                SystemInit
+ .text.Reset_Handler
+                0x0000000008002a38       0x50 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x0000000008002a38                Reset_Handler
+ .text.Default_Handler
+                0x0000000008002a88        0x2 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+                0x0000000008002a88                RTC_Alarm_IRQHandler
+                0x0000000008002a88                HASH_RNG_IRQHandler
+                0x0000000008002a88                EXTI2_IRQHandler
+                0x0000000008002a88                TIM8_CC_IRQHandler
+                0x0000000008002a88                TIM1_CC_IRQHandler
+                0x0000000008002a88                DMA2_Stream5_IRQHandler
+                0x0000000008002a88                DMA1_Stream5_IRQHandler
+                0x0000000008002a88                PVD_IRQHandler
+                0x0000000008002a88                SDIO_IRQHandler
+                0x0000000008002a88                TAMP_STAMP_IRQHandler
+                0x0000000008002a88                CAN2_RX1_IRQHandler
+                0x0000000008002a88                EXTI3_IRQHandler
+                0x0000000008002a88                TIM8_TRG_COM_TIM14_IRQHandler
+                0x0000000008002a88                TIM1_UP_TIM10_IRQHandler
+                0x0000000008002a88                TIM8_UP_TIM13_IRQHandler
+                0x0000000008002a88                I2C3_ER_IRQHandler
+                0x0000000008002a88                EXTI0_IRQHandler
+                0x0000000008002a88                I2C2_EV_IRQHandler
+                0x0000000008002a88                DMA1_Stream2_IRQHandler
+                0x0000000008002a88                CAN1_RX0_IRQHandler
+                0x0000000008002a88                FPU_IRQHandler
+                0x0000000008002a88                OTG_HS_WKUP_IRQHandler
+                0x0000000008002a88                CAN2_SCE_IRQHandler
+                0x0000000008002a88                DMA2_Stream2_IRQHandler
+                0x0000000008002a88                SPI1_IRQHandler
+                0x0000000008002a88                TIM6_DAC_IRQHandler
+                0x0000000008002a88                TIM1_BRK_TIM9_IRQHandler
+                0x0000000008002a88                DCMI_IRQHandler
+                0x0000000008002a88                CAN2_RX0_IRQHandler
+                0x0000000008002a88                DMA2_Stream3_IRQHandler
+                0x0000000008002a88                USART6_IRQHandler
+                0x0000000008002a88                USART3_IRQHandler
+                0x0000000008002a88                CAN1_RX1_IRQHandler
+                0x0000000008002a88                UART5_IRQHandler
+                0x0000000008002a88                DMA2_Stream0_IRQHandler
+                0x0000000008002a88                TIM4_IRQHandler
+                0x0000000008002a88                I2C1_EV_IRQHandler
+                0x0000000008002a88                DMA1_Stream6_IRQHandler
+                0x0000000008002a88                DMA1_Stream1_IRQHandler
+                0x0000000008002a88                UART4_IRQHandler
+                0x0000000008002a88                TIM3_IRQHandler
+                0x0000000008002a88                RCC_IRQHandler
+                0x0000000008002a88                TIM8_BRK_TIM12_IRQHandler
+                0x0000000008002a88                Default_Handler
+                0x0000000008002a88                EXTI15_10_IRQHandler
+                0x0000000008002a88                ADC_IRQHandler
+                0x0000000008002a88                DMA1_Stream7_IRQHandler
+                0x0000000008002a88                TIM7_IRQHandler
+                0x0000000008002a88                CAN2_TX_IRQHandler
+                0x0000000008002a88                TIM5_IRQHandler
+                0x0000000008002a88                DMA2_Stream7_IRQHandler
+                0x0000000008002a88                I2C3_EV_IRQHandler
+                0x0000000008002a88                EXTI9_5_IRQHandler
+                0x0000000008002a88                RTC_WKUP_IRQHandler
+                0x0000000008002a88                ETH_WKUP_IRQHandler
+                0x0000000008002a88                SPI2_IRQHandler
+                0x0000000008002a88                OTG_HS_EP1_IN_IRQHandler
+                0x0000000008002a88                DMA1_Stream0_IRQHandler
+                0x0000000008002a88                CAN1_TX_IRQHandler
+                0x0000000008002a88                EXTI4_IRQHandler
+                0x0000000008002a88                FSMC_IRQHandler
+                0x0000000008002a88                ETH_IRQHandler
+                0x0000000008002a88                OTG_HS_EP1_OUT_IRQHandler
+                0x0000000008002a88                WWDG_IRQHandler
+                0x0000000008002a88                TIM2_IRQHandler
+                0x0000000008002a88                OTG_FS_WKUP_IRQHandler
+                0x0000000008002a88                TIM1_TRG_COM_TIM11_IRQHandler
+                0x0000000008002a88                OTG_HS_IRQHandler
+                0x0000000008002a88                EXTI1_IRQHandler
+                0x0000000008002a88                USART2_IRQHandler
+                0x0000000008002a88                I2C2_ER_IRQHandler
+                0x0000000008002a88                DMA2_Stream1_IRQHandler
+                0x0000000008002a88                CAN1_SCE_IRQHandler
+                0x0000000008002a88                FLASH_IRQHandler
+                0x0000000008002a88                DMA2_Stream4_IRQHandler
+                0x0000000008002a88                USART1_IRQHandler
+                0x0000000008002a88                OTG_FS_IRQHandler
+                0x0000000008002a88                SPI3_IRQHandler
+                0x0000000008002a88                DMA1_Stream4_IRQHandler
+                0x0000000008002a88                I2C1_ER_IRQHandler
+                0x0000000008002a88                DMA2_Stream6_IRQHandler
+                0x0000000008002a88                DMA1_Stream3_IRQHandler
+ *fill*         0x0000000008002a8a        0x2 
+ .text.__udivmoddi4
+                0x0000000008002a8c      0x2c0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x0000000008002a8c                __udivmoddi4
+ .text.__libc_init_array
+                0x0000000008002d4c       0x48 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+                0x0000000008002d4c                __libc_init_array
+ .text.memset   0x0000000008002d94       0x10 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+                0x0000000008002d94                memset
+ *(.glue_7)
+ .glue_7        0x0000000008002da4        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008002da4        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008002da4        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008002da4        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x0000000008002da4                _init
+ .init          0x0000000008002da8        0x8 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x0000000008002db0        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+                0x0000000008002db0                _fini
+ .fini          0x0000000008002db4        0x8 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+                0x0000000008002dbc                . = ALIGN (0x4)
+                0x0000000008002dbc                _etext = .
+
+.vfp11_veneer   0x0000000008002dbc        0x0
+ .vfp11_veneer  0x0000000008002dbc        0x0 linker stubs
+
+.v4_bx          0x0000000008002dbc        0x0
+ .v4_bx         0x0000000008002dbc        0x0 linker stubs
+
+.iplt           0x0000000008002dbc        0x0
+ .iplt          0x0000000008002dbc        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.rodata         0x0000000008002dbc     0xa8bc
+                0x0000000008002dbc                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008002dbc       0x97 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ *(.rodata*)
+ *fill*         0x0000000008002e53        0x1 
+ .rodata.Font7x10
+                0x0000000008002e54      0x76c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .rodata.Font11x18
+                0x00000000080035c0      0xd5c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .rodata.Font16x26
+                0x000000000800431c     0x134c CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .rodata.saber  0x0000000008005668     0x8000 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+                0x0000000008005668                saber
+ .rodata.AHBPrescTable
+                0x000000000800d668       0x10 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+                0x000000000800d668                AHBPrescTable
+                0x000000000800d678                . = ALIGN (0x4)
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000000000800d678        0x8
+                0x000000000800d678                __exidx_start = .
+ *(.ARM.exidx*)
+ .ARM.exidx.text.__udivmoddi4
+                0x000000000800d678        0x8 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+                0x000000000800d680                __exidx_end = .
+
+.rel.dyn        0x000000000800d680        0x0
+ .rel.iplt      0x000000000800d680        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.preinit_array  0x000000000800d680        0x0
+                0x000000000800d680                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x000000000800d680                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000800d680        0x4
+                0x000000000800d680                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x000000000800d680        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                0x000000000800d684                PROVIDE (__init_array_end = .)
+
+.fini_array     0x000000000800d684        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x000000000800d684        0x4 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x000000000800d688                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000       0x24 load address 0x000000000800d688
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uwTickPrio
+                0x0000000020000000        0x4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0000000020000000                uwTickPrio
+ .data.uwTickFreq
+                0x0000000020000004        0x1 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0000000020000004                uwTickFreq
+ *fill*         0x0000000020000005        0x3 
+ .data.Font_7x10
+                0x0000000020000008        0x8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+                0x0000000020000008                Font_7x10
+ .data.Font_11x18
+                0x0000000020000010        0x8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+                0x0000000020000010                Font_11x18
+ .data.Font_16x26
+                0x0000000020000018        0x8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+                0x0000000020000018                Font_16x26
+ .data.SystemCoreClock
+                0x0000000020000020        0x4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+                0x0000000020000020                SystemCoreClock
+                0x0000000020000024                . = ALIGN (0x4)
+                0x0000000020000024                _edata = .
+                0x000000000800d6ac                _siccmram = LOADADDR (.ccmram)
+
+.igot.plt       0x0000000020000024        0x0 load address 0x000000000800d6ac
+ .igot.plt      0x0000000020000024        0x0 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+
+.ccmram         0x0000000010000000        0x0 load address 0x000000000800d6ac
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _sccmram = .
+ *(.ccmram)
+ *(.ccmram*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _eccmram = .
+                0x0000000010000000                . = ALIGN (0x4)
+
+.bss            0x0000000020000024       0x78
+                0x0000000020000024                _sbss = .
+                0x0000000020000024                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.completed.8911
+                0x0000000020000024        0x1 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ *fill*         0x0000000020000025        0x3 
+ .bss.object.8916
+                0x0000000020000028       0x18 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .bss.uwTick    0x0000000020000040        0x4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                0x0000000020000040                uwTick
+ .bss.hspi1     0x0000000020000044       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+                0x0000000020000044                hspi1
+ *(COMMON)
+                0x000000002000009c                . = ALIGN (0x4)
+                0x000000002000009c                _ebss = .
+                0x000000002000009c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000009c      0x604
+                0x00000000200000a0                . = ALIGN (0x8)
+ *fill*         0x000000002000009c        0x4 
+                0x00000000200000a0                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x00000000200002a0                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200000a0      0x200 
+                0x00000000200006a0                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200002a0      0x400 
+                0x00000000200006a0                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x2a
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004c       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .ARM.attributes
+                0x000000000000007a       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000000000000a8       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000000000000d6       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x0000000000000104       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .ARM.attributes
+                0x0000000000000132       0x33 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .ARM.attributes
+                0x0000000000000165       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .ARM.attributes
+                0x0000000000000193       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .ARM.attributes
+                0x00000000000001c1       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .ARM.attributes
+                0x00000000000001ef       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .ARM.attributes
+                0x000000000000021d       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .ARM.attributes
+                0x000000000000024b       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .ARM.attributes
+                0x0000000000000279       0x2e CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .ARM.attributes
+                0x00000000000002a7       0x21 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+ .ARM.attributes
+                0x00000000000002c8       0x1e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000000000002e6       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .ARM.attributes
+                0x0000000000000314       0x1e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000000332       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000360       0x2e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000038e       0x1e c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp/crtn.o
+OUTPUT(ST7789_demo_f407vet6.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x7b75
+ .debug_info    0x0000000000000000      0x9a7 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_info    0x00000000000009a7      0xecc CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_info    0x0000000000001873      0x823 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_info    0x0000000000002096      0x98b CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_info    0x0000000000002a21     0x1775 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_info    0x0000000000004196      0x1db CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .debug_info    0x0000000000004371     0x1274 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .debug_info    0x00000000000055e5      0x4cd CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .debug_info    0x0000000000005ab2      0xb19 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .debug_info    0x00000000000065cb      0xa4f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .debug_info    0x000000000000701a      0x389 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_info    0x00000000000073a3      0x217 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_info    0x00000000000075ba      0x599 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_info    0x0000000000007b53       0x22 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_abbrev   0x0000000000000000     0x1701
+ .debug_abbrev  0x0000000000000000      0x1ea CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_abbrev  0x00000000000001ea      0x339 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_abbrev  0x0000000000000523      0x1ee CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_abbrev  0x0000000000000711      0x272 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000000000000983      0x26b CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_abbrev  0x0000000000000bee       0xb8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .debug_abbrev  0x0000000000000ca6      0x262 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .debug_abbrev  0x0000000000000f08      0x14b CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .debug_abbrev  0x0000000000001053      0x1b9 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .debug_abbrev  0x000000000000120c      0x1b8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .debug_abbrev  0x00000000000013c4      0x11a CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_abbrev  0x00000000000014de       0xcf CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_abbrev  0x00000000000015ad      0x142 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_abbrev  0x00000000000016ef       0x12 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_aranges  0x0000000000000000      0x6f0
+ .debug_aranges
+                0x0000000000000000       0xf0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_aranges
+                0x00000000000000f0      0x118 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_aranges
+                0x0000000000000208       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_aranges
+                0x0000000000000260       0x88 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000000000002e8      0x1d0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_aranges
+                0x00000000000004b8       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .debug_aranges
+                0x00000000000004d0       0xd0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .debug_aranges
+                0x00000000000005a0       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .debug_aranges
+                0x00000000000005c0       0x30 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .debug_aranges
+                0x00000000000005f0       0x30 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .debug_aranges
+                0x0000000000000620       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_aranges
+                0x0000000000000640       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_aranges
+                0x00000000000006a0       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_aranges
+                0x00000000000006c8       0x28 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_ranges   0x0000000000000000      0x610
+ .debug_ranges  0x0000000000000000       0xe0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_ranges  0x00000000000000e0      0x108 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_ranges  0x00000000000001e8       0x48 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_ranges  0x0000000000000230       0x78 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_ranges  0x00000000000002a8      0x1c0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_ranges  0x0000000000000468       0xc0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .debug_ranges  0x0000000000000528       0x10 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .debug_ranges  0x0000000000000538       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .debug_ranges  0x0000000000000558       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .debug_ranges  0x0000000000000578       0x10 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_ranges  0x0000000000000588       0x50 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_ranges  0x00000000000005d8       0x18 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_ranges  0x00000000000005f0       0x20 CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_line     0x0000000000000000     0x513d
+ .debug_line    0x0000000000000000      0x557 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_line    0x0000000000000557      0x818 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_line    0x0000000000000d6f      0x6f7 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_line    0x0000000000001466      0x905 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_line    0x0000000000001d6b     0x17ab CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_line    0x0000000000003516      0x121 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .debug_line    0x0000000000003637      0x9a8 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .debug_line    0x0000000000003fdf      0x256 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .debug_line    0x0000000000004235      0x36d CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .debug_line    0x00000000000045a2      0x329 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .debug_line    0x00000000000048cb      0x23b CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_line    0x0000000000004b06      0x2d4 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_line    0x0000000000004dda      0x2c9 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_line    0x00000000000050a3       0x9a CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+
+.debug_str      0x0000000000000000     0x242b
+ .debug_str     0x0000000000000000      0xb33 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                        0xb9c (size before relaxing)
+ .debug_str     0x0000000000000b33      0x508 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+                                        0xd20 (size before relaxing)
+ .debug_str     0x000000000000103b      0x1f9 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+                                        0x5e6 (size before relaxing)
+ .debug_str     0x0000000000001234      0x30f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+                                        0x79d (size before relaxing)
+ .debug_str     0x0000000000001543      0x93f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+                                        0xc93 (size before relaxing)
+ .debug_str     0x0000000000001e82       0x8a CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+                                        0x247 (size before relaxing)
+ .debug_str     0x0000000000001f0c      0x2ba CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+                                        0xa20 (size before relaxing)
+ .debug_str     0x00000000000021c6       0x36 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+                                        0x45f (size before relaxing)
+ .debug_str     0x00000000000021fc       0x4f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+                                        0x99d (size before relaxing)
+ .debug_str     0x000000000000224b       0x3f CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+                                        0x8bd (size before relaxing)
+ .debug_str     0x000000000000228a       0x36 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+                                        0x3ce (size before relaxing)
+ .debug_str     0x00000000000022c0       0xc1 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+                                        0x34a (size before relaxing)
+ .debug_str     0x0000000000002381       0x60 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+                                        0x44a (size before relaxing)
+ .debug_str     0x00000000000023e1       0x4a CMakeFiles/ST7789_demo_f407vet6.elf.dir/startup/startup_stm32f407xx.s.obj
+                                         0x7a (size before relaxing)
+
+.comment        0x0000000000000000       0x66
+ .comment       0x0000000000000000       0x66 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+                                         0x67 (size before relaxing)
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/fonts.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .comment       0x0000000000000066       0x67 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+
+.debug_frame    0x0000000000000000     0x1a64
+ .debug_frame   0x0000000000000000      0x374 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj
+ .debug_frame   0x0000000000000374      0x498 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj
+ .debug_frame   0x000000000000080c      0x14c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj
+ .debug_frame   0x0000000000000958      0x1f0 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj
+ .debug_frame   0x0000000000000b48      0x824 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_spi.c.obj
+ .debug_frame   0x000000000000136c      0x398 CMakeFiles/ST7789_demo_f407vet6.elf.dir/ST7789/st7789.c.obj
+ .debug_frame   0x0000000000001704       0x34 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/gpio.c.obj
+ .debug_frame   0x0000000000001738       0x70 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/main.c.obj
+ .debug_frame   0x00000000000017a8       0x74 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/spi.c.obj
+ .debug_frame   0x000000000000181c       0x38 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_hal_msp.c.obj
+ .debug_frame   0x0000000000001854      0x10c CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/stm32f4xx_it.c.obj
+ .debug_frame   0x0000000000001960       0x58 CMakeFiles/ST7789_demo_f407vet6.elf.dir/Src/system_stm32f4xx.c.obj
+ .debug_frame   0x00000000000019b8       0x2c c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_aeabi_uldivmod.o)
+ .debug_frame   0x00000000000019e4       0x34 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/thumb/v7e-m/nofp\libgcc.a(_udivmoddi4.o)
+ .debug_frame   0x0000000000001a18       0x2c c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000001a44       0x20 c:/users/summer/appdata/roaming/xpacks/arm_embedded_gcc/bin/../lib/gcc/arm-none-eabi/9.2.1/../../../../arm-none-eabi/lib/thumb/v7e-m/nofp\libg_nano.a(lib_a-memset.o)

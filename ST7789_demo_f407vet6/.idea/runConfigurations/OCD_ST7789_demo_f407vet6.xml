@@ -1,0 +1,8 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration name="OCD ST7789_demo_f407vet6" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" PASS_PARENT_ENVS_2="true" PROJECT_NAME="ST7789_demo_f407vet6" TARGET_NAME="ST7789_demo_f407vet6.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="ST7789_demo_f407vet6" RUN_TARGET_NAME="ST7789_demo_f407vet6.elf">
+    <openocd gdb-port="3333" telnet-port="4444" board-config="board/stm32f4discovery.cfg" reset-type="INIT" download-type="ALWAYS" />
+    <method v="2">
+      <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+    </method>
+  </configuration>
+</component>
