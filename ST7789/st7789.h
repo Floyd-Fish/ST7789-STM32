@@ -8,13 +8,7 @@
 #define ST7789_SPI_PORT hspi1
 extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
-/**
- * if you predefined pin names in CubeMX, 
- * you could find them in main.h 
- * and use them below  
- */   
-
-/* Define the pins tp connect */
+/* Pin connection*/
 #define ST7789_RST_PORT ST7789_RST_GPIO_Port
 #define ST7789_RST_PIN ST7789_RST_Pin
 #define ST7789_DC_PORT ST7789_DC_GPIO_Port
@@ -37,7 +31,6 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 /* Choose a type you are using */
 //#define USING_135X240
 #define USING_240X240
-
 
 /* Choose a display rotation you want to use: (0-3) */
 //#define ST7789_ROTATION 0
