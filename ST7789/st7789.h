@@ -4,6 +4,8 @@
 #include "fonts.h"
 #include "main.h"
 
+//#define CFG_NO_CS
+
 /* choose a Hardware SPI port to use. */
 #define ST7789_SPI_PORT hspi1
 extern SPI_HandleTypeDef ST7789_SPI_PORT;
@@ -13,18 +15,20 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 #define ST7789_RST_PIN ST7789_RST_Pin
 #define ST7789_DC_PORT ST7789_DC_GPIO_Port
 #define ST7789_DC_PIN ST7789_DC_Pin
+#ifndef CFG_NO_CS
 #define ST7789_CS_PORT ST7789_CS_GPIO_Port
 #define ST7789_CS_PIN ST7789_CS_Pin
+#endif
 
 /***** Use if need backlight control *****
-#define BLK_PORT 
-#define BLK_PIN 
+#define BLK_PORT
+#define BLK_PIN
 ******************************************/
 
 /**
  * Comment one to use another one.
  * two parameters can be choosed
- * 135x240(0.96 inch) and 240x240(1.3inch) 
+ * 135x240(0.96 inch) and 240x240(1.3inch)
  * X_SHIFT&Y_SHIFT are used to correct different display's resolution
  */
 
@@ -34,7 +38,7 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
 /* Choose a display rotation you want to use: (0-3) */
 //#define ST7789_ROTATION 0
-//#define ST7789_ROTATION 1       
+//#define ST7789_ROTATION 1
 #define ST7789_ROTATION 2				//  use Normally on 240x240
 //#define ST7789_ROTATION 3
 
@@ -74,7 +78,7 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
     #define ST7789_WIDTH 240
     #define ST7789_HEIGHT 240
-		
+
 		#if ST7789_ROTATION == 0
 			#define X_SHIFT 0
 			#define Y_SHIFT 80
@@ -143,19 +147,19 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 #define ST7789_COLMOD  0x3A
 #define ST7789_MADCTL  0x36
 
-/** 
+/**
  * Memory Data Access Control Register (0x36H)
- * MAP:     D7  D6  D5  D4  D3  D2  D1  D0 
+ * MAP:     D7  D6  D5  D4  D3  D2  D1  D0
  * param:   MY  MX  MV  ML  RGB MH  -   -
- * 
- */ 
+ *
+ */
 
 /* Page Address Order ('0': Top to Bottom, '1': the opposite) */
-#define ST7789_MADCTL_MY  0x80  
+#define ST7789_MADCTL_MY  0x80
 /* Column Address Order ('0': Left to Right, '1': the opposite) */
-#define ST7789_MADCTL_MX  0x40  
+#define ST7789_MADCTL_MX  0x40
 /* Page/Column Order ('0' = Normal Mode, '1' = Reverse Mode) */
-#define ST7789_MADCTL_MV  0x20  
+#define ST7789_MADCTL_MV  0x20
 /* Line Address Order ('0' = LCD Refresh Top to Bottom, '1' = the opposite) */
 #define ST7789_MADCTL_ML  0x10
 /* RGB/BGR Order ('0' = RGB, '1' = BGR) */
@@ -169,7 +173,7 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 /* Advanced options */
 /**
  * Caution: Do not operate these settings
- * You know what you are doing 
+ * You know what you are doing
  */
 
 #define ST7789_COLOR_MODE_16bit 0x55    //  RGB565 (16bit)
@@ -181,9 +185,13 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
 #define ST7789_DC_Clr() HAL_GPIO_WritePin(ST7789_DC_PORT, ST7789_DC_PIN, GPIO_PIN_RESET)
 #define ST7789_DC_Set() HAL_GPIO_WritePin(ST7789_DC_PORT, ST7789_DC_PIN, GPIO_PIN_SET)
-
+#ifndef CFG_NO_CS
 #define ST7789_Select() HAL_GPIO_WritePin(ST7789_CS_PORT, ST7789_CS_PIN, GPIO_PIN_RESET)
 #define ST7789_UnSelect() HAL_GPIO_WritePin(ST7789_CS_PORT, ST7789_CS_PIN, GPIO_PIN_SET)
+#else
+#define ST7789_Select() asm("nop")
+#define ST7789_UnSelect() asm("nop")
+#endof
 
 #define ABS(x) ((x) > 0 ? (x) : -(x))
 
