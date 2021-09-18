@@ -110,11 +110,11 @@ static void ST7789_SetAddressWindow(uint16_t x0, uint16_t y0, uint16_t x1, uint1
  */
 void ST7789_Init(void)
 {
-	HAL_Delay(25);
+    ST7789_UnSelect();
     ST7789_RST_Clr();
-    HAL_Delay(25);
+    HAL_Delay(1);
     ST7789_RST_Set();
-    HAL_Delay(50);
+    HAL_Delay(120);
 		
     ST7789_WriteCommand(ST7789_COLMOD);		//	Set color mode
     ST7789_WriteSmallData(ST7789_COLOR_MODE_16bit);
