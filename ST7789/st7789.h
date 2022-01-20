@@ -10,14 +10,18 @@
 #define ST7789_SPI_PORT hspi1
 extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
+/* choose whether use DMA or not */
+#define USE_DMA         1
+
 /* Pin connection*/
 #define ST7789_RST_PORT ST7789_RST_GPIO_Port
-#define ST7789_RST_PIN ST7789_RST_Pin
-#define ST7789_DC_PORT ST7789_DC_GPIO_Port
-#define ST7789_DC_PIN ST7789_DC_Pin
+#define ST7789_RST_PIN  ST7789_RST_Pin
+#define ST7789_DC_PORT  ST7789_DC_GPIO_Port
+#define ST7789_DC_PIN   ST7789_DC_Pin
+
 #ifndef CFG_NO_CS
-#define ST7789_CS_PORT ST7789_CS_GPIO_Port
-#define ST7789_CS_PIN ST7789_CS_Pin
+#define ST7789_CS_PORT  ST7789_CS_GPIO_Port
+#define ST7789_CS_PIN   ST7789_CS_Pin
 #endif
 
 /***** Use if need backlight control *****
@@ -29,7 +33,7 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
  * Comment one to use another one.
  * two parameters can be choosed
  * 135x240(0.96 inch) and 240x240(1.3inch)
- * X_SHIFT&Y_SHIFT are used to correct different display's resolution
+ * X_SHIFT & Y_SHIFT are used to adapt different display's resolution
  */
 
 /* Choose a type you are using */
@@ -171,11 +175,6 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 #define ST7789_RDID4   0xDD
 
 /* Advanced options */
-/**
- * Caution: Do not operate these settings
- * You know what you are doing
- */
-
 #define ST7789_COLOR_MODE_16bit 0x55    //  RGB565 (16bit)
 #define ST7789_COLOR_MODE_18bit 0x66    //  RGB666 (18bit)
 
@@ -191,7 +190,7 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 #else
 #define ST7789_Select() asm("nop")
 #define ST7789_UnSelect() asm("nop")
-#endof
+#endif
 
 #define ABS(x) ((x) > 0 ? (x) : -(x))
 
