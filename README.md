@@ -1,9 +1,10 @@
 # ST7789-STM32
-Using STM32's Hardware SPI to drive a ST7789 based IPS display.
+Using STM32's Hardware SPI(with simple DMA support) to drive a ST7789 based IPS display.
 
 ## Supported Displays
-- 135*240 resolution  
-- 240*240 resolution  
+- 135*240   
+- 240*240   
+- 170*320 (new)
 
 If you like, you could customize it's resolution to drive different displays you prefer. 
 > For example, a 240x320 display is perfectly suited for st7789.  
@@ -17,13 +18,10 @@ Include st7789.h in main.c
 for a simple test, you could refer ST7789_Test() function in while(1).  
 **Don't forget to refer `ST7789_Init();` before you use any functions...**
 
+This code has been tested on 240x240 & 170x320 LCD screens. You can look into **demo** directory for details.  
 
-This code has been tested on 240x240 IPS screen. You can look into **demo** directory for details.  
-
-
-Test conditions:
-- STM32F103C8T6  
-- Keil MDK5  
+> DMA is only useful under huge dataflow conditions, e.g: Clear full screen or draw a bitmap.  
+> Most MCUs doesn't have a large RAM, so a  framebuffer is "cut" into pieces, e.g: a 240x5 pixel buffer for a 240x240 screen.  
 
 ## **Important**
 
