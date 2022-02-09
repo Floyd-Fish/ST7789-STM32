@@ -1,17 +1,17 @@
 #ifndef __ST7789_H
 #define __ST7789_H
-
 #include "fonts.h"
 #include "main.h"
-
-//#define CFG_NO_CS
 
 /* choose a Hardware SPI port to use. */
 #define ST7789_SPI_PORT hspi1
 extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
 /* choose whether use DMA or not */
-#define USE_DMA         1
+#define USE_DMA
+
+/* If u need CS control, uncomment below*/
+//#define CFG_NO_CS
 
 /* Pin connection*/
 #define ST7789_RST_PORT ST7789_RST_GPIO_Port
@@ -24,21 +24,22 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 #define ST7789_CS_PIN   ST7789_CS_Pin
 #endif
 
-/***** Use if need backlight control *****
-#define BLK_PORT
-#define BLK_PIN
-******************************************/
+/* If u need Backlight control, uncomment below */
+//#define BLK_PORT
+//#define BLK_PIN
 
-/**
- * Comment one to use another one.
- * two parameters can be choosed
- * 135x240(0.96 inch) and 240x240(1.3inch)
+
+/*
+ * Comment one to use another.
+ * 3 parameters can be choosed
+ * 135x240(0.96 inch) & 240x240(1.3inch) & 170x320(1.9inch)
  * X_SHIFT & Y_SHIFT are used to adapt different display's resolution
  */
 
 /* Choose a type you are using */
 //#define USING_135X240
 #define USING_240X240
+//#define USING_170X320
 
 /* Choose a display rotation you want to use: (0-3) */
 //#define ST7789_ROTATION 0
@@ -99,33 +100,65 @@ extern SPI_HandleTypeDef ST7789_SPI_PORT;
 
 #endif
 
+#ifdef USING_170X320
+
+	#if ST7789_ROTATION == 0
+        #define ST7789_WIDTH 170
+        #define ST7789_HEIGHT 320
+        #define X_SHIFT 35
+        #define Y_SHIFT 0
+    #endif
+
+    #if ST7789_ROTATION == 1
+        #define ST7789_WIDTH 320
+        #define ST7789_HEIGHT 170
+        #define X_SHIFT 0
+        #define Y_SHIFT 35
+    #endif
+
+    #if ST7789_ROTATION == 2
+        #define ST7789_WIDTH 170
+        #define ST7789_HEIGHT 320
+        #define X_SHIFT 35
+        #define Y_SHIFT 0
+    #endif
+
+    #if ST7789_ROTATION == 3
+        #define ST7789_WIDTH 320
+        #define ST7789_HEIGHT 170
+        #define X_SHIFT 0
+        #define Y_SHIFT 35
+    #endif
+
+#endif
+
 /**
  *Color of pen
  *If you want to use another color, you can choose one in RGB565 format.
  */
 
-#define WHITE 0xFFFF
-#define BLACK 0x0000
-#define BLUE 0x001F
-#define RED 0xF800
-#define MAGENTA 0xF81F
-#define GREEN 0x07E0
-#define CYAN 0x7FFF
-#define YELLOW 0xFFE0
-#define GRAY 0X8430
-#define BRED 0XF81F
-#define GRED 0XFFE0
-#define GBLUE 0X07FF
-#define BROWN 0XBC40
-#define BRRED 0XFC07
-#define DARKBLUE 0X01CF
-#define LIGHTBLUE 0X7D7C
-#define GRAYBLUE 0X5458
+#define WHITE       0xFFFF
+#define BLACK       0x0000
+#define BLUE        0x001F
+#define RED         0xF800
+#define MAGENTA     0xF81F
+#define GREEN       0x07E0
+#define CYAN        0x7FFF
+#define YELLOW      0xFFE0
+#define GRAY        0X8430
+#define BRED        0XF81F
+#define GRED        0XFFE0
+#define GBLUE       0X07FF
+#define BROWN       0XBC40
+#define BRRED       0XFC07
+#define DARKBLUE    0X01CF
+#define LIGHTBLUE   0X7D7C
+#define GRAYBLUE    0X5458
 
-#define LIGHTGREEN 0X841F
-#define LGRAY 0XC618
-#define LGRAYBLUE 0XA651
-#define LBBLUE 0X2B12
+#define LIGHTGREEN  0X841F
+#define LGRAY       0XC618
+#define LGRAYBLUE   0XA651
+#define LBBLUE      0X2B12
 
 /* Control Registers and constant codes */
 #define ST7789_NOP     0x00
@@ -224,19 +257,6 @@ void ST7789_TearEffect(uint8_t tear);
 
 /* Simple test function. */
 void ST7789_Test(void);
-
-#if !defined(USING_240X240)
-	#if !defined(USING_135X240)
-	    #error 	You should at least choose one display resolution!
-	#endif
-#endif
-
-#if !defined(USING_135X240)
-	#if !defined(USING_240X240)
-	    #error 	You should at least choose one display resolution!
-	#endif
-#endif
-
 
 #ifndef ST7789_ROTATION
     #error You should at least choose a display rotation!
