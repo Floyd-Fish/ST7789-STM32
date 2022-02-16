@@ -209,6 +209,7 @@ void ST7789_Fill_Color(uint16_t color)
 			ST7789_WriteData(disp_buf, sizeof(disp_buf));
 		}
 	#else
+		uint16_t j;
 		for (i = 0; i < ST7789_WIDTH; i++)
 				for (j = 0; j < ST7789_HEIGHT; j++) {
 					uint8_t data[] = {color >> 8, color & 0xFF};
