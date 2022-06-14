@@ -711,32 +711,32 @@ void ST7789_Test(void)
 	HAL_Delay(1000);
 
 	ST7789_Fill_Color(RED);
-	ST7789_WriteString(10, 10, "Rect./Line.", Font_11x18, YELLOW, RED);
+	ST7789_WriteString(10, 10, "Rect./Line.", Font_11x18, YELLOW, BLACK);
 	ST7789_DrawRectangle(30, 30, 100, 100, WHITE);
 	HAL_Delay(1000);
 
 	ST7789_Fill_Color(RED);
-	ST7789_WriteString(10, 10, "Filled Rect.", Font_11x18, YELLOW, RED);
+	ST7789_WriteString(10, 10, "Filled Rect.", Font_11x18, YELLOW, BLACK);
 	ST7789_DrawFilledRectangle(30, 30, 50, 50, WHITE);
 	HAL_Delay(1000);
 
 	ST7789_Fill_Color(RED);
-	ST7789_WriteString(10, 10, "Circle.", Font_11x18, YELLOW, RED);
+	ST7789_WriteString(10, 10, "Circle.", Font_11x18, YELLOW, BLACK);
 	ST7789_DrawCircle(60, 60, 25, WHITE);
 	HAL_Delay(1000);
 
 	ST7789_Fill_Color(RED);
-	ST7789_WriteString(10, 10, "Filled Cir.", Font_11x18, YELLOW, RED);
+	ST7789_WriteString(10, 10, "Filled Cir.", Font_11x18, YELLOW, BLACK);
 	ST7789_DrawFilledCircle(60, 60, 25, WHITE);
 	HAL_Delay(1000);
 
 	ST7789_Fill_Color(RED);
-	ST7789_WriteString(10, 10, "Triangle", Font_11x18, YELLOW, RED);
+	ST7789_WriteString(10, 10, "Triangle", Font_11x18, YELLOW, BLACK);
 	ST7789_DrawTriangle(30, 30, 30, 70, 60, 40, WHITE);
 	HAL_Delay(1000);
 
 	ST7789_Fill_Color(RED);
-	ST7789_WriteString(10, 10, "Filled Tri", Font_11x18, YELLOW, RED);
+	ST7789_WriteString(10, 10, "Filled Tri", Font_11x18, YELLOW, BLACK);
 	ST7789_DrawFilledTriangle(30, 30, 30, 70, 60, 40, WHITE);
 	HAL_Delay(1000);
 
