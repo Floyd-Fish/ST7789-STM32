@@ -397,6 +397,19 @@ void ST7789_DrawCircle(uint16_t x0, uint16_t y0, uint8_t r, uint16_t color)
 }
 
 /**
+ * @brief Prepare image array for ST7789_DrawImage function
+ *        by exchanging high and low bytes in a uint16_t
+ * @param size -> size of array
+ * @param array -> pointer to array
+ * @return none
+ */
+void ST7789_PrepareRGB565_Array(int size, uint16_t *array)
+{
+    for (int i=0;i<size;i++)
+        array[i] = array[i]>>8 | array[i] & 0xFF;
+}
+
+/**
  * @brief Draw an Image on the screen
  * @param x&y -> start point of the Image
  * @param w&h -> width & height of the Image to Draw
