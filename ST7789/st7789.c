@@ -406,7 +406,7 @@ void ST7789_DrawCircle(uint16_t x0, uint16_t y0, uint8_t r, uint16_t color)
 void ST7789_PrepareRGB565_ImageArray(int size, uint16_t *image)
 {
     for (int i=0;i<size;i++)
-        image[i] = image[i]>>8 | image[i] & 0xFF;
+        image[i] = image[i]>>8 | (image[i] & 0xFF)<<8;
 }
 
 /**
