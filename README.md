@@ -5,18 +5,19 @@ Using STM32's Hardware SPI(with simple DMA support) to drive a ST7789 based LCD 
 
 1. Copy the "st7789" dir to your project src path, add it to include path   
 2. Include `"st7789.h"` in where you want to use this driver.   
-3. In system startup, perform `ST7789_Init();`.  
-4. Run a `ST7789_Test()` to exam this driver.  
-5. Don't forget to turn the backlight on  
+3. Configure parameters in `"st7789.h"` according to your own display panel  
+4. In system startup, perform `ST7789_Init();`.  
+5. Run a `ST7789_Test()` to exam this driver.  
+6. Don't forget to turn the backlight on  
 
-This code has been tested on 240x240 & 170x320 LCD screens. You can look into **demo** directory for details.  
+This code has been tested on 240x240 & 170x320 LCD screens.
 
-> DMA is only useful under huge dataflow conditions, e.g: Clear full screen or draw a bitmap.  
-> Most MCUs doesn't have a large RAM, so a  framebuffer is "cut" into pieces, e.g: a 240x5 pixel buffer for a 240x240 screen.  
+> DMA is only useful when huge block write is performed, e.g: Fill full screen or draw a bitmap.  
+> Most MCUs don't have a large enough RAM, so a framebuffer is "cut" into pieces, e.g: a 240x5 pixel buffer for a 240x240 screen.  
 
 ## SPI Interface
 
-If you are using **Dupont Line(or jumper wire)**, please notice that your CLK frequency should not exceed 40MHz(may vary), **otherwise data transfer will collapse!**  
+If you are using **Dupont Line(or jumper wire)**, please notice that your CLK frequency should not exceed 40MHz (may vary, depends on the length of your wire), **otherwise data transfer will collapse!**  
 For higher speed applications, it's recommended to **use PCB** rather than jumper wires.  
 
 In STM32CubeMX/CubeIDE, config the SPI params as follow:
@@ -52,7 +53,7 @@ Without DMA enabled, the filling process could be a suffer. As you can see, befo
 
 ![noDMA](/fig/fill_normal.png)
 
-Especially in some functions who need a little math, the cpu needs to calculate data before a write operation, so the effective datarate would be much lower.(e.g. drawLine)
+Especially in some functions where need a little math, the cpu needs to calculate data before a write operation, so the effective datarate would be much lower.(e.g. drawLine)
 
 ![line](fig/draw_line.png)
 

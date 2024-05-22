@@ -8,7 +8,7 @@ uint16_t DMA_MIN_SIZE = 16;
  * And if your MCU have enough RAM(even larger than full-frame size),
  * Then you can specify the framebuffer size to the full resolution below.
  */
- #define HOR_LEN 	5	//	Alse mind the resolution of your screen!
+ #define HOR_LEN 	5	//	Also mind the resolution of your screen!
 uint16_t disp_buf[ST7789_WIDTH * HOR_LEN];
 #endif
 
@@ -136,12 +136,12 @@ void ST7789_Init(void)
 	#ifdef USE_DMA
 		memset(disp_buf, 0, sizeof(disp_buf));
 	#endif
-	HAL_Delay(25);
+	HAL_Delay(10);
     ST7789_RST_Clr();
-    HAL_Delay(25);
+    HAL_Delay(10);
     ST7789_RST_Set();
-    HAL_Delay(50);
-		
+    HAL_Delay(20);
+
     ST7789_WriteCommand(ST7789_COLMOD);		//	Set color mode
     ST7789_WriteSmallData(ST7789_COLOR_MODE_16bit);
   	ST7789_WriteCommand(0xB2);				//	Porch control
